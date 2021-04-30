@@ -8,7 +8,7 @@
 
 ## Architecture
 
-[Architecture Diagram](https://app.diagrams.net/#Hyogeetagup/WL_Assignment/main/wl_assignment.drawio)
+[Architecture Diagram](https://github.com/yogeetagup/WL_Assignment/blob/main/wl_assignment.drawio)
 
 ## Database Used
 
