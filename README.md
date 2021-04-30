@@ -10,6 +10,9 @@
 
 [Architecture Diagram](https://github.com/yogeetagup/WL_Assignment/blob/main/wl_assignment.drawio)
 
+![wl_assignment](https://user-images.githubusercontent.com/47107793/116728712-df206c80-aa03-11eb-812b-8a5c967c2df2.png)
+
+
 ## Database Used
 
 For this Assignment SqlLite Database is used. Two tables are used **User**[*Built in Django User model*] and **Account**[*Capture the user login Activity*]
